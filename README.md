@@ -33,7 +33,7 @@ Estou sempre em busca de novos projetos e desafios de coding, e aqui é onde des
 <div width="100%" align="center">
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llunno&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llunno&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=10">
 </a>
 
 </div>
